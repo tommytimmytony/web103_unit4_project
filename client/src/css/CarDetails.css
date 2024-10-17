@@ -1,0 +1,82 @@
+.car-full-details {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  max-width: 600px;
+  margin: 20px auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.car-full-details header h2 {
+  text-align: center;
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.details-content {
+  padding: 10px;
+}
+
+.car-details-price p {
+  font-size: 18px;
+  font-weight: bold;
+  color: #27ae60;
+}
+
+.car-selection {
+  margin: 10px 0;
+}
+
+.car-selection-overlay {
+  border: 1px solid #ddd;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.car-selection-details p {
+  margin: 0;
+  font-size: 16px;
+}
+
+.car-selection-details strong {
+  color: #2c3e50;
+}
+
+.option-price {
+  font-weight: bold;
+  color: #c0392b;
+  margin-top: 5px;
+}
+
+.car-modify {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.car-modify a, .car-modify button {
+  padding: 10px 15px;
+  border: none;
+  background-color: #2980b9;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.car-modify a:hover, .car-modify button:hover {
+  background-color: #1c5985;
+}
+
+.car-modify button {
+  background-color: #e74c3c;
+}
+
+.car-modify button:hover {
+  background-color: #c0392b;
+}

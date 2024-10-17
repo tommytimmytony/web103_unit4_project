@@ -1,0 +1,10 @@
+.car-card {
+    display: grid;
+    grid-template-columns: 2fr 2fr 1fr;
+    justify-items: center;
+    align-items: center;
+}
+
+article {
+    margin: 40px;
+}
