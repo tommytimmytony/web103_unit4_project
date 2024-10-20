@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='800' height='600' alt='Video Walkthrough' />
+<img src='https://github.com/tommytimmytony/web103_unit4_project/blob/main/Animation.gif' title='Video Walkthrough' width='800' height='600' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  [ScreenToGif](https://www.screentogif.com/) for Windows
